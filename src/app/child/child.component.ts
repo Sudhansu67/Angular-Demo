@@ -9,6 +9,7 @@ export class ChildComponent implements OnInit {
 
   public name:string = 'Sudhansu (Silu)';
   public imageSrc:string = 'http://lorempixel.com/400/200/';
+  
 
   constructor() { }
 
